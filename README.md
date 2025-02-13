@@ -1,20 +1,20 @@
-# 👋 About Me
+# About Me
 
 Hi! I'm **Eli Werstler**, a passionate **Computer Engineering and Computer Science Student** currently pursuing a dual degree at **Columbia University** and **College of the Holy Cross**. With experience in both software and hardware design, I specialize in solving complex problems and optimizing systems using cutting-edge technologies.
 
-My education and internships have provided me with a solid foundation in **artificial intelligence**, **data structures**, **computational vision**, **data mining and statistics**, and **engineering design**. I thrive in dynamic environments that challenge my skills in both leadership and technical implementation.
+My education and internships have provided me with a solid foundation in **artificial intelligence**, **data structures**, **computational vision**, **data mining and statistics**, **computer networks**, **compiler design**, and **engineering design**. I thrive in dynamic environments that challenge my skills in both leadership and technical implementation.
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
-- **Programming Languages**: Python, Java, C++, C, MATLAB, Swift, Scheme, HTML, JavaScript, CSS
+- **Programming Languages**: Python, Java, C++, C, MATLAB, Swift, Scheme, HTML, JavaScript, CSS, OCaml
 - **Tools**: Git, LTspice, Solid Edge, AutoCAD
 - **Areas of Expertise**: Artificial Intelligence, Circuits and Systems, Data Structures & Algorithms, 3D Modeling, Software Development, Computational Vision
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Engineering Intern  
 **SPIROL International Corp., Dayville, CT** – Summer 2021, 2022, 2023, 2024; Winter 2023  
@@ -31,9 +31,13 @@ My education and internships have provided me with a solid foundation in **artif
 **International Model United Nations Association, NYC, NY** – Fall 2022 – Spring 2023  
 - Chaired large committees, led the publication of a research guide on India's political landscape, and mentored assistant directors.
 
+### Executive Chair
+**We the People Model United Nations, NYC, NY** – Spring 2025
+- Chaired 300+ person committee, mentored co-chars
+
 ---
 
-## 🛠️ Projects
+## 🛠Projects
 
 ### [AGF Machine Redesign]
 - Led the redesign of a critical AGF machine component, working closely with engineers and machinists to deliver an optimized solution using **Solid Edge**.
@@ -48,7 +52,7 @@ My education and internships have provided me with a solid foundation in **artif
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Columbia University**, New York, NY – B.S. in Computer Engineering (Expected: May 2026)
 - **College of the Holy Cross**, Worcester, MA – B.A. in Computer Science (Expected: May 2025)
@@ -56,22 +60,15 @@ My education and internships have provided me with a solid foundation in **artif
 
 ---
 
-## 📜 Certifications & Courses
+## Certifications & Courses
 
-- **Circuit Analysis, Signals & Systems, Probability for Engineers, Advanced Programming**, Columbia University School of Engineering and Applied Sciences
+- **Circuit Analysis, Electronic Circuits, Signals & Systems, Fundamentals of Computer Systems, Probability for Engineers, Advanced Programming, Computer Networks, Programming Languages and Translators**, Columbia University School of Engineering and Applied Sciences
 - **Data Structures, Analysis of Algorithms, Mathematical Structures, Computer Systems, Computational Vision, Programming Languages, Data Mining, Mathematical Methods and Scientific Computing, Calculus I-III, Physics I,II, Chemistry, Economics**, College of the Holy Cross
 - **Artificial Intelligence**, University of Melbourne
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced applications of **Signal and Circuit Analysis** and **Advanced Programming in C**.
-- Exploring **MATLAB and LTspice** and their applications in circuit design and signal analysis.
-
----
-
-## 🎯 2024 Goals
+## 2025 Goals
 
 - Build and contribute to open-source AI projects.
 - Continue refining my skills in **AI** and **Hardware**.
@@ -79,7 +76,7 @@ My education and internships have provided me with a solid foundation in **artif
 
 ---
 
-## 🌍 Let's Connect
+## Let's Connect
 
 Feel free to connect with me for collaboration, mentorship, or to discuss exciting opportunities!
 
