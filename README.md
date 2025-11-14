@@ -1,86 +1,85 @@
-# About Me
+# Eli Werstler
 
-Hi! I'm **Eli Werstler**, a passionate **Computer Engineering and Computer Science Student** currently pursuing a dual degree at **Columbia University** and **College of the Holy Cross**. With experience in both software and hardware design, I specialize in solving complex problems and optimizing systems using cutting-edge technologies.
+I’m a Computer Engineering and Computer Science student completing a dual degree at **Columbia University** and **College of the Holy Cross**. My work spans systems programming, AI, circuit design, backend development, and applied math. I like building things that actually run—whether that means an AI agent solving a toroidal game board, a peer-to-peer blockchain coordinating airport traffic, or a full-stack cooking platform that cuts food waste.
 
-My education and internships have provided me with a solid foundation in **artificial intelligence**, **data structures**, **computational vision**, **data mining and statistics**, **computer networks**, **compiler design**, and **engineering design**. I thrive in dynamic environments that challenge my skills in both leadership and technical implementation.
-
----
-
-## Skills & Technologies
-
-- **Programming Languages**: Python, Java, C++, C, MATLAB, Swift, Scheme, HTML, JavaScript, CSS, OCaml
-- **Tools**: Git, LTspice, Solid Edge, AutoCAD
-- **Areas of Expertise**: Artificial Intelligence, Circuits and Systems, Data Structures & Algorithms, 3D Modeling, Software Development, Computational Vision
+I apply the same mindset across engineering, poker, and research: stay rigorous, stay curious, and keep iterating.
 
 ---
 
-## Professional Experience
+## Featured Projects
 
-### Engineering Intern  
-**SPIROL International Corp., Dayville, CT** – Summer 2021, 2022, 2023, 2024; Winter 2023  
-- Led a comprehensive redesign of a machine component using **Solid Edge** for 3D modeling.
-- Executed a software transition from **AutoCAD** to **Solid Edge**, enhancing operational efficiency.
-- Wrote and published operational instructions for complex industrial systems.
+### **CookSmart – Smart Pantry & Recipe Platform**  
+**TypeScript, React, Node.js, SQLite**  
+A full-stack cooking and inventory system built around ingredient normalization, recipe ingestion, and a clean REST API. Uses a TypeScript React client, an Express backend, safe middleware (Helmet, CORS, rate limiting), and reproducible SQLite tooling. Designed for practical weekly use and rapid iteration.
 
-### STEM+E Tutor  
-**College of the Holy Cross, Worcester, MA** – Fall 2023  
-- Tutored peers in **Computer Science**, **Physics**, **Mathematics**, and **Chemistry**, enhancing their understanding of complex concepts.
-- Collaborated with professors to provide feedback on student progress and learning challenges.
+### **Distributed Blockchain Network (Airport Registration System)**  
+**Python, Sockets, TCP/IP, Tkinter, ECDSA**  
+A peer-to-peer blockchain for six simulated airports. Implements PoW mining, ECDSA signatures, fork/orphan handling, node directories, and reproducible replay logs. Demonstrates secure distributed systems, network messaging, and fault-tolerant state management.
 
-### Substantive Director  
-**International Model United Nations Association, NYC, NY** – Fall 2022 – Spring 2023  
-- Chaired large committees, led the publication of a research guide on India's political landscape, and mentored assistant directors.
+### **Tetress AI Agent – Monte Carlo Tree Search**  
+**Python, AI, Game Theory, MCTS**  
+An AI agent for a two-player strategic board game played on an 11×11 toroidal grid. Implements MCTS with custom rollouts, heuristics, and move generation. Balances offense and defense through adaptive state evaluation.
 
-### Executive Chair
-**We the People Model United Nations, NYC, NY** – Spring 2025
-- Chaired 300+ person committee, mentored co-chars
+### **Computational Vision Algorithms**  
+**MATLAB**  
+Implementations of image filtering, LoG edge detection, Gabor frequency analysis, stereo depth estimation, and optical flow. Built from scratch to understand how vision systems extract structure, motion, and depth from raw images.
+
+### **Poker Hand Classification (Data Mining)**  
+**Python, NumPy, Pandas, scikit-learn**  
+Applied KNN, decision trees, and neural networks to the UCI Poker Hand Dataset. Dimensionality reduction and stratified sampling improved performance, with neural networks reaching the highest accuracy. Reflects my long-standing interest in poker and probabilistic reasoning.
+
+### **Location-Based Scavenger Hunt Game**  
+**Swift, SwiftUI, MapKit, CoreLocation**  
+A mobile game that generates GPS-based challenges, detects proximity, and integrates camera capture and real-time map updates. A full SwiftUI application using Apple’s location frameworks.
 
 ---
 
-## 🛠Projects
+## Experience
 
-### [AGF Machine Redesign]
-- Led the redesign of a critical AGF machine component, working closely with engineers and machinists to deliver an optimized solution using **Solid Edge**.
-  
-### [Operational Instructions for Mectron MI8500]
-- Developed comprehensive operational instructions for a crack detection system, enabling efficient and safe usage in an industrial setting.
+### **Software Engineering Intern (DevOps & Full-Stack) – Levo International**  
+**AWS Cognito, Vue, Express, jsforce, JWT Security**  
+- Implemented Cognito authentication (OIDC Authorization Code flow) and JWT-protected API routes.  
+- Integrated Salesforce data pipelines for volunteer-hours and campaign management.  
+- Standardized environment handling, ports, API security, and token management.
 
-### [Tetress AI Agent]
-- Built AI agent for the two-player game Tetress, utilizing Monte Carlo Tree Search (MCTS) to make intelligent, strategic decisions in real-time on a toroidal board.
+### **Engineering Intern – SPIROL International Corp.**  
+**Solid Edge, AutoCAD, Manufacturing Automation**  
+- Redesigned AGF machine components to improve ergonomics, reliability, and maintenance cycles.  
+- Led company-wide migration from AutoCAD to Solid Edge, including training and documentation.  
+- Authored operational manuals for a crack-detection system used in production.
 
-### []
+### **STEM+E Instructor – College of the Holy Cross**  
+Taught and developed materials for CS, physics, mathematics, chemistry, and economics.
+
+### **Chair – International Model United Nations Association**  
+Moderated 300+ delegates, published a detailed research guide on India’s political and economic landscape, and mentored staff.
+
+---
+
+## Technical Skills
+
+**Languages:** Java, Python, C/C++, MATLAB, Swift, Scheme, JavaScript, HTML/CSS, OCaml, Verilog, SQL  
+**Developer Tools:** Git, UNIX, VS Code, PyCharm, Solid Edge, LTspice, React, Node.js, Express, Prisma, Cloudinary, Socket.io, GCP  
+**Domains:** AI & Search Methods, Distributed Systems, Computer Networks, Compilers/PL, Analog & Digital Circuits, Data Mining, Applied Math
+
+---
+
+## Background & Interests
+
+I study engineering at Columbia, play poker at a serious level, and enjoy projects that sit at the intersection of computation and real-world constraints. That includes building systems that must be performant, secure, and fault-tolerant, as well as tools that help with everyday life—like analyzing poker ranges, automating recipes, or modeling real-world sensor data.
 
 ---
 
 ## Education
 
-- **Columbia University**, New York, NY – B.S. in Computer Engineering (Expected: May 2026)
-- **College of the Holy Cross**, Worcester, MA – B.A. in Computer Science (Expected: May 2025)
-- **University of Melbourne**, Melbourne, VIC – Study Abroad (Feb - June 2024)
+**Columbia University** – B.S. Computer Engineering (2026)  
+**College of the Holy Cross** – B.A. Computer Science (2025)  
+**University of Melbourne** – Study Abroad, Computational Vision & AI (2024)
 
 ---
 
-## Certifications & Courses
+## Contact
 
-- **Circuit Analysis, Electronic Circuits, Signals & Systems, Fundamentals of Computer Systems, Probability for Engineers, Advanced Programming, Computer Networks, Programming Languages and Translators**, Columbia University School of Engineering and Applied Sciences
-- **Data Structures, Analysis of Algorithms, Mathematical Structures, Computer Systems, Computational Vision, Programming Languages, Data Mining, Mathematical Methods and Scientific Computing, Calculus I-III, Physics I,II, Chemistry, Economics**, College of the Holy Cross
-- **Artificial Intelligence**, University of Melbourne
-
----
-
-## 2025 Goals
-
-- Build and contribute to open-source AI projects.
-- Continue refining my skills in **AI** and **Hardware**.
-- Gain further experience in the field through internships and research projects.
-
----
-
-## Let's Connect
-
-Feel free to connect with me for collaboration, mentorship, or to discuss exciting opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eli-werstler)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/eliwerstler)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:eliwerstler@gmail.com)
-
+**LinkedIn:** https://www.linkedin.com/in/eli-werstler  
+**GitHub:** https://github.com/eliwerstler  
+**Email:** eliwerstler@gmail.com
