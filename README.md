@@ -1,8 +1,8 @@
 # Eli Werstler
 
-I’m a Computer Engineering and Computer Science student completing a dual degree at **Columbia University** and **College of the Holy Cross**. My work spans systems programming, AI, circuit design, backend development, and applied math. I like building things that actually run—whether that means an AI agent solving a toroidal game board, a peer-to-peer blockchain coordinating airport traffic, or a full-stack cooking platform that cuts food waste.
+I’m a Computer Engineering and Computer Science student completing a dual degree at **Columbia University** and **College of the Holy Cross**. My work includes systems programming, AI, circuit design, backend development, and applied math. I like building things.
 
-I apply the same mindset across engineering, poker, and research: stay rigorous, stay curious, and keep iterating.
+My interests span engineering, poker, and basktball. Stay curious.
 
 ---
 
@@ -10,7 +10,7 @@ I apply the same mindset across engineering, poker, and research: stay rigorous,
 
 ### **CookSmart – Smart Pantry & Recipe Platform**  
 **TypeScript, React, Node.js, SQLite**  
-A full-stack cooking and inventory system built around ingredient normalization, recipe ingestion, and a clean REST API. Uses a TypeScript React client, an Express backend, safe middleware (Helmet, CORS, rate limiting), and reproducible SQLite tooling. Designed for practical weekly use and rapid iteration.
+A full-stack cooking and inventory system for ingredient normalization, recipe reccomendation, and a clean REST API. Uses a TypeScript React client, Express backend, safe middleware (Helmet, CORS, rate limiting), and SQLite. Designed for practical weekly use.
 
 ### **Distributed Blockchain Network (Airport Registration System)**  
 **Python, Sockets, TCP/IP, Tkinter, ECDSA**  
