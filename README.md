@@ -7,7 +7,7 @@ Amongst other things, I work with TypeScript · React · Node.js · Python · Po
 ---
 
 ### Things I've built
-
+|---|---|---|
 | **[Text2Form](https://github.com/eliwerstler/Text2Form)** | Describe a part in plain English and get a 3D model you can download. An LLM turns the description into validated geometry. | Next.js · TypeScript · Claude API · Three.js |
 | **[Cook Smart](https://github.com/eliwerstler/Cook-Smart)** | A pantry tracker that tells you what you can cook with what you have, with ingredient normalization and unit conversion. | React · TypeScript · Express · SQLite |
 | **[Jellyland](https://github.com/eliwerstler/Jellyland-Distributed-Block-Chain)** | A peer-to-peer blockchain over raw TCP with proof of work, ECDSA signatures, and fork resolution. | Python · sockets |
